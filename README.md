@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-This is a test project
+This is a test project to learn Githum workflow.
